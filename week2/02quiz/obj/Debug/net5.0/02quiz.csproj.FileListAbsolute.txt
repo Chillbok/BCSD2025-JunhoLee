@@ -1,0 +1,16 @@
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\bin\Debug\net5.0\02quiz.exe
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\bin\Debug\net5.0\02quiz.deps.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\bin\Debug\net5.0\02quiz.runtimeconfig.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\bin\Debug\net5.0\02quiz.runtimeconfig.dev.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\bin\Debug\net5.0\02quiz.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\bin\Debug\net5.0\ref\02quiz.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\bin\Debug\net5.0\02quiz.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\obj\Debug\net5.0\02quiz.csproj.AssemblyReference.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\obj\Debug\net5.0\02quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\obj\Debug\net5.0\02quiz.AssemblyInfoInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\obj\Debug\net5.0\02quiz.AssemblyInfo.cs
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\obj\Debug\net5.0\02quiz.csproj.CoreCompileInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\obj\Debug\net5.0\02quiz.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\obj\Debug\net5.0\ref\02quiz.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\obj\Debug\net5.0\02quiz.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week2\02quiz\obj\Debug\net5.0\02quiz.genruntimeconfig.cache
