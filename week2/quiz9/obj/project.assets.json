@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\junho\\Repositories\\BCSD2025-JunhoLee\\week2\\quiz6\\quiz6.csproj",
-      "projectName": "quiz6",
-      "projectPath": "C:\\Users\\junho\\Repositories\\BCSD2025-JunhoLee\\week2\\quiz6\\quiz6.csproj",
+      "projectUniqueName": "C:\\Users\\junho\\Repositories\\BCSD2025-JunhoLee\\week2\\quiz9\\quiz9.csproj",
+      "projectName": "quiz9",
+      "projectPath": "C:\\Users\\junho\\Repositories\\BCSD2025-JunhoLee\\week2\\quiz9\\quiz9.csproj",
       "packagesPath": "C:\\Users\\junho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\junho\\Repositories\\BCSD2025-JunhoLee\\week2\\quiz6\\obj\\",
+      "outputPath": "C:\\Users\\junho\\Repositories\\BCSD2025-JunhoLee\\week2\\quiz9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\junho\\AppData\\Roaming\\NuGet\\NuGet.Config",
