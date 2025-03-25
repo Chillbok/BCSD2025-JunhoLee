@@ -1,0 +1,16 @@
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\obj\Debug\net5.0\자료구조.csproj.AssemblyReference.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\obj\Debug\net5.0\자료구조.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\obj\Debug\net5.0\자료구조.AssemblyInfoInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\obj\Debug\net5.0\자료구조.AssemblyInfo.cs
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\obj\Debug\net5.0\자료구조.csproj.CoreCompileInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\bin\Debug\net5.0\자료구조.exe
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\bin\Debug\net5.0\자료구조.deps.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\bin\Debug\net5.0\자료구조.runtimeconfig.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\bin\Debug\net5.0\자료구조.runtimeconfig.dev.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\bin\Debug\net5.0\자료구조.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\bin\Debug\net5.0\ref\자료구조.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\bin\Debug\net5.0\자료구조.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\obj\Debug\net5.0\자료구조.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\obj\Debug\net5.0\ref\자료구조.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\obj\Debug\net5.0\자료구조.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\자료구조\obj\Debug\net5.0\자료구조.genruntimeconfig.cache
