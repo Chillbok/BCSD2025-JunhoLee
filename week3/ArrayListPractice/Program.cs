@@ -77,6 +77,17 @@ namespace CollectionPractice
             //array 요소 개수 세는 법
             Console.WriteLine("> array 개수 세는 법");
             Console.WriteLine($"\tarray 개수: {array.Count}");
+
+            //AddRange 사용하는 법
+            array.Clear();
+            array.Add("array항목1");
+            Console.WriteLine("> array 초기화 후 하나만 남기기");
+            PrintArrayList(array);  //요소 하나만 남아 있는 array
+
+            string[] fruits = { "딸기", "오렌지", "포도"};  //array에 추가하기 위한 배열
+            array.AddRange(fruits);
+            Console.WriteLine("> array에 문자열 배열 추가");
+            PrintArrayList(array);
         }
 
         public static void PrintArrayList(ArrayList list)
