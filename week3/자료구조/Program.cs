@@ -7,7 +7,7 @@ namespace 자료구조
         static void Main(string[] args)
         {
             /*
-            리스트 실습
+            배열 실습
             ====================================
             */
             MakeArray arrayItems = new MakeArray();
@@ -20,11 +20,6 @@ namespace 자료구조
             //문자열 배열 생성
             string[] names = {"이준호", "김철수", "김영희"};
             arrayItems.PrintItems(names);
-
-            /*
-            Linked List 실습
-            ====================================
-            */
         }
     }
 
