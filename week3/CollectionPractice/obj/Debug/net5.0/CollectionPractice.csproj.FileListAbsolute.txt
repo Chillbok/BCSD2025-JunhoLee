@@ -1,5 +1,0 @@
-C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\CollectionPractice\obj\Debug\net5.0\CollectionPractice.csproj.AssemblyReference.cache
-C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\CollectionPractice\obj\Debug\net5.0\CollectionPractice.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\CollectionPractice\obj\Debug\net5.0\CollectionPractice.AssemblyInfoInputs.cache
-C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\CollectionPractice\obj\Debug\net5.0\CollectionPractice.AssemblyInfo.cs
-C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\CollectionPractice\obj\Debug\net5.0\CollectionPractice.csproj.CoreCompileInputs.cache
