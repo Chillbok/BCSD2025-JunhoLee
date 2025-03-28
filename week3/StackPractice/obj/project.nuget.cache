@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "onqOPGhypMtJdOhHYboZmmeROhmF/5aPFE6XR021NI7aPpxCFSKW2LlbEpcRUtca1xl9jFW1hYwdCPkjjbN3QA==",
+  "dgSpecHash": "UdOk9lAmf/E=",
   "success": true,
   "projectFilePath": "C:\\Users\\junho\\Repositories\\BCSD2025-JunhoLee\\week3\\StackPractice\\StackPractice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\junho\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\junho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\junho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\junho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

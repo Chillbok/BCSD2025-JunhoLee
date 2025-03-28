@@ -1,0 +1,5 @@
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net5.0\StackPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net5.0\StackPractice.AssemblyInfoInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net5.0\StackPractice.AssemblyInfo.cs
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net5.0\StackPractice.csproj.CoreCompileInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net5.0\StackPractice.sourcelink.json
