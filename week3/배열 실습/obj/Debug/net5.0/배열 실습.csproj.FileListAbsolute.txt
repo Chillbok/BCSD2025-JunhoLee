@@ -1,0 +1,16 @@
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\bin\Debug\net5.0\배열 실습.exe
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\bin\Debug\net5.0\배열 실습.deps.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\bin\Debug\net5.0\배열 실습.runtimeconfig.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\bin\Debug\net5.0\배열 실습.runtimeconfig.dev.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\bin\Debug\net5.0\배열 실습.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\bin\Debug\net5.0\배열 실습.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\obj\Debug\net5.0\배열 실습.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\obj\Debug\net5.0\배열 실습.AssemblyInfoInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\obj\Debug\net5.0\배열 실습.AssemblyInfo.cs
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\obj\Debug\net5.0\배열 실습.csproj.CoreCompileInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\obj\Debug\net5.0\배열 실습.sourcelink.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\obj\Debug\net5.0\배열 실습.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\obj\Debug\net5.0\refint\배열 실습.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\obj\Debug\net5.0\배열 실습.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\obj\Debug\net5.0\배열 실습.genruntimeconfig.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\배열 실습\obj\Debug\net5.0\ref\배열 실습.dll

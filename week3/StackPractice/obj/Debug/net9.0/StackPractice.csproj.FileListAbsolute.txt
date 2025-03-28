@@ -1,0 +1,15 @@
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\bin\Debug\net9.0\StackPractice.exe
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\bin\Debug\net9.0\StackPractice.deps.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\bin\Debug\net9.0\StackPractice.runtimeconfig.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\bin\Debug\net9.0\StackPractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\bin\Debug\net9.0\StackPractice.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net9.0\StackPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net9.0\StackPractice.AssemblyInfoInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net9.0\StackPractice.AssemblyInfo.cs
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net9.0\StackPractice.csproj.CoreCompileInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net9.0\StackPractice.sourcelink.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net9.0\StackPractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net9.0\refint\StackPractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net9.0\StackPractice.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net9.0\StackPractice.genruntimeconfig.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\StackPractice\obj\Debug\net9.0\ref\StackPractice.dll

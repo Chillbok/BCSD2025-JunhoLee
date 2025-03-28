@@ -1,0 +1,15 @@
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\bin\Debug\net9.0\ArrayListPractice.exe
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\bin\Debug\net9.0\ArrayListPractice.deps.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\bin\Debug\net9.0\ArrayListPractice.runtimeconfig.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\bin\Debug\net9.0\ArrayListPractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\bin\Debug\net9.0\ArrayListPractice.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net9.0\ArrayListPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net9.0\ArrayListPractice.AssemblyInfoInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net9.0\ArrayListPractice.AssemblyInfo.cs
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net9.0\ArrayListPractice.csproj.CoreCompileInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net9.0\ArrayListPractice.sourcelink.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net9.0\ArrayListPractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net9.0\refint\ArrayListPractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net9.0\ArrayListPractice.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net9.0\ArrayListPractice.genruntimeconfig.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net9.0\ref\ArrayListPractice.dll

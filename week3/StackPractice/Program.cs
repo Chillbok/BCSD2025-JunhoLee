@@ -23,7 +23,7 @@ namespace StackPractice
             Console.WriteLine($"삭제 뒤 다음 요소 삭제하지 않고 반환: {stack01.Peek()}");
             PrintLine();
             stack01.Clear();
-            Console.WriteLine($"스택 모든 요소 삭제 완료: {stack01.Count}")
+            Console.WriteLine($"스택 모든 요소 삭제 완료: {stack01.Count}");
         }
 
         public static void PrintLine()

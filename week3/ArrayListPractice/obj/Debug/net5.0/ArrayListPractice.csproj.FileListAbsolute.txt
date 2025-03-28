@@ -3,7 +3,6 @@ C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\bin\Debug\
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\bin\Debug\net5.0\ArrayListPractice.runtimeconfig.json
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\bin\Debug\net5.0\ArrayListPractice.runtimeconfig.dev.json
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\bin\Debug\net5.0\ArrayListPractice.dll
-C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\bin\Debug\net5.0\ref\ArrayListPractice.dll
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\bin\Debug\net5.0\ArrayListPractice.pdb
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net5.0\ArrayListPractice.csproj.AssemblyReference.cache
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net5.0\ArrayListPractice.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,5 @@ C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net5.0\ref\ArrayListPractice.dll
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net5.0\ArrayListPractice.pdb
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net5.0\ArrayListPractice.genruntimeconfig.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net5.0\ArrayListPractice.sourcelink.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ArrayListPractice\obj\Debug\net5.0\refint\ArrayListPractice.dll

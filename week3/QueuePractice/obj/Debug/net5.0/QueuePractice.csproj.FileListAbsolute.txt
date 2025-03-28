@@ -8,9 +8,10 @@ C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\bin\Debug\net5
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\bin\Debug\net5.0\QueuePractice.runtimeconfig.json
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\bin\Debug\net5.0\QueuePractice.runtimeconfig.dev.json
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\bin\Debug\net5.0\QueuePractice.dll
-C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\bin\Debug\net5.0\ref\QueuePractice.dll
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\bin\Debug\net5.0\QueuePractice.pdb
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net5.0\QueuePractice.dll
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net5.0\ref\QueuePractice.dll
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net5.0\QueuePractice.pdb
 C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net5.0\QueuePractice.genruntimeconfig.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net5.0\QueuePractice.sourcelink.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net5.0\refint\QueuePractice.dll

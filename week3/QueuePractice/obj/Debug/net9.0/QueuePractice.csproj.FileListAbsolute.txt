@@ -1,0 +1,15 @@
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\bin\Debug\net9.0\QueuePractice.exe
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\bin\Debug\net9.0\QueuePractice.deps.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\bin\Debug\net9.0\QueuePractice.runtimeconfig.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\bin\Debug\net9.0\QueuePractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\bin\Debug\net9.0\QueuePractice.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net9.0\QueuePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net9.0\QueuePractice.AssemblyInfoInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net9.0\QueuePractice.AssemblyInfo.cs
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net9.0\QueuePractice.csproj.CoreCompileInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net9.0\QueuePractice.sourcelink.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net9.0\QueuePractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net9.0\refint\QueuePractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net9.0\QueuePractice.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net9.0\QueuePractice.genruntimeconfig.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\QueuePractice\obj\Debug\net9.0\ref\QueuePractice.dll
