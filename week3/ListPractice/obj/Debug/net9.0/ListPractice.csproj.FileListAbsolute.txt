@@ -1,0 +1,15 @@
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\obj\Debug\net9.0\ListPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\obj\Debug\net9.0\ListPractice.AssemblyInfoInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\obj\Debug\net9.0\ListPractice.AssemblyInfo.cs
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\obj\Debug\net9.0\ListPractice.csproj.CoreCompileInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\obj\Debug\net9.0\ListPractice.sourcelink.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\bin\Debug\net9.0\ListPractice.exe
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\bin\Debug\net9.0\ListPractice.deps.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\bin\Debug\net9.0\ListPractice.runtimeconfig.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\bin\Debug\net9.0\ListPractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\bin\Debug\net9.0\ListPractice.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\obj\Debug\net9.0\ListPractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\obj\Debug\net9.0\refint\ListPractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\obj\Debug\net9.0\ListPractice.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\obj\Debug\net9.0\ListPractice.genruntimeconfig.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\ListPractice\obj\Debug\net9.0\ref\ListPractice.dll
