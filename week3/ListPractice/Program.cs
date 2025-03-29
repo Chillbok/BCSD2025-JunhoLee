@@ -85,11 +85,26 @@ namespace ListPractice
             Console.WriteLine("리스트 지운 후 내용:");
             needSort.Clear();
             ListStatus(needSort);
+
+            /*
+            LinkedList 실습
+            */
+            LinkedList<string> list01 = new LinkedList<string>();
+            
+            //list 추가
+            list01.AddLast("첫번째");
+            list01.AddLast("맨뒤에 추가");
+            list01.AddFirst("맨앞에 추가");
+            PrintLine();
+            Console.WriteLine($"맨 뒤에 요소 추가하고, 맨 앞에 요소 추가:");
+            Console.WriteLine($"리스트 상태:");
+            LinkedListStatus(list01);
         }
         public static void PrintLine()
         {
             Console.WriteLine("====================");
         }
+
         public static void ListStatus(List<int> list)
         {
             foreach(int item in list)
@@ -99,6 +114,14 @@ namespace ListPractice
         }
 
         public static void ListStatus(List<string> list)
+        {
+            foreach(string item in list)
+            {
+                Console.WriteLine($"\t{item}");
+            }
+        }
+
+        public static void LinkedListStatus(LinkedList<string> list)
         {
             foreach(string item in list)
             {
