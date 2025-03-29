@@ -1,0 +1,15 @@
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\obj\Debug\net9.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\obj\Debug\net9.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\obj\Debug\net9.0\Quiz.AssemblyInfo.cs
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\obj\Debug\net9.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\obj\Debug\net9.0\Quiz.sourcelink.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\bin\Debug\net9.0\Quiz.exe
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\bin\Debug\net9.0\Quiz.deps.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\bin\Debug\net9.0\Quiz.runtimeconfig.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\bin\Debug\net9.0\Quiz.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\bin\Debug\net9.0\Quiz.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\obj\Debug\net9.0\Quiz.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\obj\Debug\net9.0\refint\Quiz.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\obj\Debug\net9.0\Quiz.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\obj\Debug\net9.0\Quiz.genruntimeconfig.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\Quiz\obj\Debug\net9.0\ref\Quiz.dll
