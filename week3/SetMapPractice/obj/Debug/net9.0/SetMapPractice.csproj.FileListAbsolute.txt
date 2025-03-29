@@ -1,0 +1,15 @@
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\obj\Debug\net9.0\SetMapPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\obj\Debug\net9.0\SetMapPractice.AssemblyInfoInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\obj\Debug\net9.0\SetMapPractice.AssemblyInfo.cs
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\obj\Debug\net9.0\SetMapPractice.csproj.CoreCompileInputs.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\obj\Debug\net9.0\SetMapPractice.sourcelink.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\bin\Debug\net9.0\SetMapPractice.exe
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\bin\Debug\net9.0\SetMapPractice.deps.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\bin\Debug\net9.0\SetMapPractice.runtimeconfig.json
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\bin\Debug\net9.0\SetMapPractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\bin\Debug\net9.0\SetMapPractice.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\obj\Debug\net9.0\SetMapPractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\obj\Debug\net9.0\refint\SetMapPractice.dll
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\obj\Debug\net9.0\SetMapPractice.pdb
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\obj\Debug\net9.0\SetMapPractice.genruntimeconfig.cache
+C:\Users\junho\Repositories\BCSD2025-JunhoLee\week3\SetMapPractice\obj\Debug\net9.0\ref\SetMapPractice.dll
